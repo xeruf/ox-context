@@ -205,7 +205,6 @@
 (require 'ox-org)
 (require 'seq)
 (require 'subr-x)
-(require 'context)
 (require 'texinfmt) ;; Needed for texinfo-part-of-para-regexp
 
 ;;; Define Back-end
